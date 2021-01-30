@@ -5,3 +5,5 @@ print('three by another developer')
 
 def add_author():
     print('author added')
+
+print('third author')
